@@ -1,2 +1,2 @@
-# courseera-test
-courseera test repository
+# learning
+learning something new repository
